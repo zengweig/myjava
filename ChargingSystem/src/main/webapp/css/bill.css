@@ -1,0 +1,14 @@
+.information{
+	width: 1200px;
+}
+.left{
+	width: 28%;
+	padding-left: 2%;
+}
+.right{
+	width: 70%;
+	height:350px;	
+}
+.information>div{
+	float: left;
+}

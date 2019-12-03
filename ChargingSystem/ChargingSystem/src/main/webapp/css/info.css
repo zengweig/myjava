@@ -1,0 +1,22 @@
+.top,.bottom{
+	width: 100%;
+	background: #f5f5f5;
+}
+
+.top{
+	padding: 20px 0;
+}
+
+.top>span{
+	margin-left: 80px; 
+	color: green;	
+}
+
+.bottom span{
+	margin-left: 80px;
+	color:orange;
+}
+
+.bottom>div{
+	padding: 20px 0;
+}
